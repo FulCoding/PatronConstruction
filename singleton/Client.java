@@ -1,8 +1,7 @@
+package singleton;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-
-import singleton.Singleton;
 
 public class Client {
     public static void main(String[] args) {
